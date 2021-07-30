@@ -1,0 +1,2318 @@
+﻿I have gone home./I went home.
+We have gone home./We went home.
+You have gone home./You went home.
+You have gone home./You  went home.
+He has gone home./He went home.
+She has gone home./She went home.
+They have gone home./They went home.
+i (have) killed the lion.
+We (have) killed the lion.
+You have killed the lion.
+You killed the lion.
+He (has) killed the lion.
+She (has) killed the lion.
+They (have) killed the lion.
+I have killed the lion now.
+I killed the lion yesterday.
+I had gone home.
+We had gone home.
+You (SG) had gone home.
+You (PL) had gone home.
+He had gone home.
+She had gone home.
+They had gone home.
+four times four is equal to sixteen.
+ten times ten is equal to a hundred.
+ten times.
+two multiplied by three is equal to six.
+four multiplied by four is equal to sixteen.
+ten multiplied by ten is equal to a hundred.
+three minus two is equal to one.
+minus.
+ten.minus five minus is equal to five.
+ten.minus  five.
+is equal to five.
+seven minus four is equal to three.
+four minus four is equal to zero.
+four divided by two is equal to two.
+eight divided by four is equal to two.
+three divided by one is equal to three.
+three is greater than two.
+nine is greater than eight.
+hundred is greater than fifty.
+two hundred is greater than one hundred.
+seventy is greater than fifty.
+one hundred seventy is greater than hundred fifty.
+two is less than three.
+one hundred is less than one hundred fifty.
+ten is less than fifteen.
+two hundred is less than three hundred.
+twenty is less than thirty.
+ten is equal to ten.
+twenty is equal to twenty.
+five is equal to five.
+one hundred is equal to one hundred.
+three hundred is equal to three hundred.
+one thousand is equal to one thousand.
+i.
+hand.
+i killed the lion with a spear..
+with a spear.
+i killed.
+ihe child ate cheese with spoon.
+ihe child-
+cheese.
+with spoon
+halima hit the child with a stick.
+halima.
+the child.
+with stick.
+hit.
+We tied the firewood with rope.
+the Firewood.
+with Rope.
+we tie.
+the woman loved the man.
+the woman.
+the man.
+loved.
+the men danced.
+the men.
+danced.
+i.
+hand.
+eye.
+mat.
+bread.
+finger nail.
+nape.
+lip.
+blood.
+house.
+hair.
+ant.
+ear.
+hair.
+finger.
+forehead.
+tooth.
+saliva.
+three is equal to five.
+two plus three is equal to five.
+ten plus ten is equal to twenty.
+two times.
+three multiplied by.
+is equal to six.
+two times three is equal to six.
+four times four.
+multiplied by.
+sixteen.
+//four times  four times four is equal to sixteen.
+ten times ten is equal to a hundred.
+ten times.
+two multiplied by three is equal to six.
+four multiplied by four is equal to sixteen.
+ten multiplied by ten is equal to a hundred.
+three minus two is equal to one.
+minus.
+ten.minus five minus is equal to five.
+ten.minus  five.
+is equal to five.
+seven minus four is equal to three.
+four minus four is equal to zero.
+four divided by two is equal to two.
+eight divided by four is equal to two.
+three divided by one is equal to three.
+three is greater than two.
+nine is greater than eight.
+hundred is greater than fifty.
+two hundred is greater than one hundred.
+seventy is greater than fifty.
+one hundred seventy is greater than hundred fifty.
+two is less than three.
+one hundred is less than one hundred fifty.
+ten is less than fifteen.
+two hundred is less than three hundred.
+twenty is less than thirty.
+ten is equal to ten.
+twenty is equal to twenty.
+five is equal to five.
+one hundred is equal to one hundred.
+three hundred is equal to three hundred.
+one thousand is equal to one thousand.
+bed.
+hair.
+breakfast.
+sorghum.
+puppy, kid, lamb.
+she-goat.
+hand.
+whip.
+knee.
+lip.
+rope.
+heart, chest.
+sickle.
+yoghurt.
+cloth.
+spear.
+whip.
+hut.
+mortar.
+navel.
+blood.
+skin.
+lip.
+lung.
+testicle.
+tomato.
+tooth.
+onion.
+measurement.
+heel.
+saliva.
+knife.
+hand.
+nail (of finger).
+finger.
+hair.
+onion.
+thumb.
+armpit.
+knee.
+sorghum.
+anus.
+buttock.
+fish.
+orange.
+dinner.
+soup.
+pepper.
+glass (for drinking from).
+bucket.
+bed.
+bed sheets.
+blanket.
+boiler.
+head.
+kidney.
+hair.
+dinner.
+sheep.
+outer cheek.
+neck.
+belly.
+eyelash.
+nose.
+barley.
+heel.
+lip.
+chest.
+water.
+upper arm.
+pot.
+axe.
+coffee.
+porridge.
+finger.
+ten.
+finger nail.
+waist.
+bread.
+butter.
+lemon.
+leg.
+fruit.
+lung.
+window, air outlet in a building.
+fart.
+faeces.
+tomato.
+buttock.
+mat.
+dirt.
+work.
+gift.
+sweeten.
+deduction.
+tail.
+forest.
+relative.
+reaching.
+eating.
+liking, loving.
+victory.
+goat.
+(f)goat.
+male dog.
+bitch.
+husband.
+wife.
+ram.
+ewe.
+head.
+eye.
+tongue.
+upper arm muscles.
+cheek (outer part).
+leg.
+tree.
+ear.
+foot.
+nape.
+waist.
+money.
+lid.
+local bread.
+egg.
+cheese.
+coffee.
+deduction.
+lion.
+head.
+breast.
+child.
+forehead.
+eyelash, eyebrow.
+mouth.
+cheek (outer part).
+tooth.
+my house.
+field, farm.
+cheese.
+false banana.
+green pepper.
+mouth.
+breast.
+tongue.
+saliva.
+spear.
+nose.
+upper arm.
+north.
+hair.
+lion.
+ewe.
+boiler.
+boiler.
+coffee.
+coffee.
+skin.
+testicle.
+we laughed.
+laugh.
+please, you shut the door.
+please.
+door.
+shut.
+food.
+prepare.
+food.
+let us prepare.
+run.
+eat.
+make sleep.
+suckle.
+cloth.
+clothes.
+cow.
+he goat.
+she goat.
+male dog.
+bitch.
+husband.
+wife.
+ram.
+ewe.
+father.
+mother.
+grandfather.
+grandmother.
+brother.
+sister.
+uncle (paternal).
+aunt (paternal).
+uncle (maternal).
+aunt (maternal).
+bull.
+heifer.
+the little man came.
+little.
+come.
+little come.
+an old cow died.
+a little old cow died.
+to teach.
+teacher.
+teacher.
+to use.
+user.
+user.
+to lie.
+liar.
+liar.
+to smoke.
+smoker.
+smoker.
+to run.
+runner.
+runner.
+to advise.
+advisor.
+advisor.
+father.
+fatherhood.
+child.
+childhood.
+mother.
+motherhood.
+friend.
+friendship.
+man.
+manhood.
+relative.
+relationship.
+woman.
+womanhood.
+baby.
+babyhood.
+to be small.
+smallness.
+to be lazy.
+laziness.
+to be big.
+bigness.
+to be brave.
+bravery.
+to be good.
+kindness, goodness.
+to be rich.
+richness.
+father.
+fatherhood.
+child.
+childhood.
+friend.
+friendship.
+man.
+manhood.
+woman.
+womanhood.
+to be small.
+smallness.
+to be lazy.
+laziness.
+to be big.
+bigness.
+to be brave.
+bravery.
+to be kind, good.
+kindness, goodness.
+to be rich.
+richness.
+relative.
+intended: relationship.
+baby.
+intended:babyhood.
+mother.
+intended:motherhood.
+neighbour.
+neighbour hood.
+neighbor hood.
+to throw.
+throwing.
+to walk.
+walking.
+to run.
+running.
+to buy.
+buying.
+to laugh.
+laughing.
+to learn.
+learning.
+to advise.
+advising.
+to sell.
+selling.
+to play.
+playing.
+to throw.
+throwing.
+to walk.
+walking.
+to run.
+run.
+to buy.
+buying.
+to laugh.
+laughing.
+to learn.
+learning.
+to advise.
+advice.
+to sell.
+selling.
+to play.
+play.
+to eat.
+food.
+to cut.
+cutter.
+to lift.
+lifter.
+to drink.
+object to drink from.
+to dig.
+digger.
+to boil.
+boiler.
+to split.
+splitter.
+tree.
+fall.
+a tree fell.
+people.
+come.
+people came.
+trees fell.
+snakes died.
+a man came.
+one.
+person.
+come.
+a woman came.
+woman.
+the man came.
+man.
+come.
+the woman came.
+the people came.
+people.
+the snake died.
+snake.
+die.
+one.
+two.
+three.
+four.
+five.
+six.
+seven.
+eight.
+nine.
+ten.
+hundred.
+thousand.
+million.
+eleven.
+twelve.
+thirteen.
+fourteen.
+fifteen.
+sixteen.
+seventeen.
+eighteen.
+nineteen.
+twenty.
+thirty.
+forty.
+fifty.
+sixty.
+seventy.
+eighty.
+ninety.
+twenty one <lit: twenty and one>.
+thirty three <lit: thirty and three>.
+forty five <lit: forty and five>.
+three hundred.
+two hundred forty.
+six thousand.
+two hundred forty five.
+three thousand two hundred forty six.
+first.
+second.
+third.
+fourth.
+fifth.
+sixth.
+seventh.
+eighth.
+ninth.
+tenth.
+eleventh.
+sixteenth.
+twentieth.
+hundredth.
+first.
+fourth.
+seventh.
+eighth.
+eleventh.
+sixteenth.
+twentieth.
+two plus.
+three is equal to five.
+two plus three is equal to five.
+ten plus ten is equal to twenty.
+two times.
+three multiplied by.
+is equal to six.
+two times three is equal to six.
+four times four.
+multiplied by.
+sixteen.
+//four times  four times four is equal to sixteen.
+ten times ten is equal to a hundred.
+ten times.
+two multiplied by three is equal to six.
+four multiplied by four is equal to sixteen.
+ten multiplied by ten is equal to a hundred.
+three minus two is equal to one.
+minus.
+ten minus five minus is equal to five.
+ten minus  five.
+is equal to five.
+seven minus four is equal to three.
+four minus four is equal to zero.
+four divided by two is equal to two.
+eight divided by four is equal to two.
+three divided by one is equal to three.
+three is greater than two.
+nine is greater than eight.
+hundred is greater than fifty.
+two hundred is greater than one hundred.
+seventy is greater than fifty.
+one hundred seventy is greater than hundred fifty.
+two is less than three.
+one hundred is less than one hundred fifty.
+ten is less than fifteen.
+two hundred is less than three hundred.
+twenty is less than thirty.
+ten is equal to ten.
+twenty is equal to twenty.
+five is equal to five.
+one hundred is equal to one hundred.
+three hundred is equal to three hundred.
+one thousand is equal to one thousand.
+cow.
+die.
+a cow died.
+kedir.
+here.
+come.
+kedir came here.
+the man killed the snake.
+man.
+snake.
+kill.
+the dog bit the man.
+dog.
+bite.
+cows give milk.
+cows.
+milk.
+give.
+lions roared.
+lions.
+roar.
+the thief stole the book.
+thief.
+book.
+steal.
+i kill the lion.
+i.
+kill.
+the rat ate food.
+the rat.
+food.
+eat.
+they bring their books..
+they.
+their books.
+bring.
+we drank coffee.
+we.
+coffee.
+drink.
+i bought the book for him.
+him.
+buy.
+he bought a cloth for his wife.
+he.
+his wife.
+cloth.
+she made coffee for the guests.
+she.
+guests.
+coffee.
+boil.
+jelalu bought a cow for his mother.
+jelalu.
+his mother.
+a cow.
+bought.
+you bought houses for them.
+houses.
+kedir's house is big.
+big.
+this is bediru's brother.
+this.
+bediru.
+brother.
+hussein house.
+the cow's horn broke.
+cow.
+horn.
+break.
+the legs of the horse are bleeding.
+the horse.
+legs.
+bleed.
+you men.
+you women.
+mamma.
+mamma.
+father (daddy).
+grandma.
+grandpa.
+aunt (paternal).
+aunt (maternal).
+uncle (paternal) .
+uncle (maternal).
+jelalo.
+hussen.
+saleh.
+muddessir.
+jemal.
+kedijja.
+musema.
+we came from hawassa.
+my mother came from the office.
+mother.
+office.
+come.
+the farmer came from his farm.
+the farmer.
+from farm.
+come.
+i killed the lion with a spear.
+with a spear.
+i killed.
+the child ate cheese with spoon..
+the child-.
+cheese.
+with spoon.
+halima hit the child with a stick.
+halima.
+the child.
+with stick.
+hit.
+we tied the firewood with rope.
+the firewood.
+with rope.
+we tie.
+the woman loved the man.
+the woman.
+the man.
+loved.
+the men danced.
+the men.
+danced.
+the bulls fight each other.
+bulls.
+fight.
+saleh worked with us.
+saleh.
+with  us.
+worked.
+the cow gone.
+house  person.
+servant.
+food  house.
+restaurant.
+eye  cataract.
+eye.
+cataract.
+i have gone home./i went home.
+we have gone home./we went home.
+you have gone home./you went home.
+you have gone home./you  went home.
+he has gone home./he went home.
+she has gone home./she went home.
+they have gone home./they went home.
+i (have) killed the lion.
+we (have) killed the lion.
+you have killed the lion.
+you killed the lion.
+he (has) killed the lion.
+she (has) killed the lion.
+they (have) killed the lion.
+i have killed the lion now.
+i killed the lion yesterday.
+i had gone home.
+we had gone home.
+you (sg) had gone home.
+you (pl) had gone home.
+he had gone home.
+she had gone home.
+they had gone home.
+i had killed the lion.
+we had killed the lion.
+you (sg) had killed the lion.
+you (pl) had killed the lion.
+he had killed the lion.
+she had killed the lion.
+they had killed the lion.
+i always drink coffee
+we always drink coffee.
+you always drink coffee.
+you always drink coffee.
+he always drinks coffee.
+she always drinks coffee.
+they always drink coffee.
+i am going home.
+we are going home.
+you (sg) are going home.
+you (pl) are going home.
+he is going home.
+she is going home.
+they are going home.
+i was going home.
+we were going home.
+you (sg) were going home.
+you were going home.
+he was going home.
+she was going home.
+they were going home.
+i have been living here since 2000.
+you have been living here since 2000.
+he has been living here since 2000.
+they have been living here since 2000.
+i will sleep here.
+we will sleep here.
+you (sg) will sleep here.
+you (pl) will sleep here.
+he will sleep here.
+she will sleep here.
+they will sleep here.
+i will drink coffee.
+we will drink coffee.
+you (sg) will drink coffee.
+you (pl) will drink coffee.
+he will drink coffee.
+she will drink coffee.
+they will drink coffee.
+eat.
+sleep.
+drink.
+run.
+shut.
+write.
+go.
+eat!.
+drink.
+run!.
+shut.
+write.
+sleep.
+go.
+wash.
+sit down.
+sleep.
+please, you give them water.
+please, you shut the door.
+please you come with us.
+please,  come with us.
+let me prepare the food.
+food.
+let me prepare.
+let us prepare the food.
+let us prepare '
+' the food.
+let him prepare the food.
+let him prepare.
+let her/them prepare the food.
+let her/them prepare.
+let me bring the book.
+let me bring.
+the book.
+let us bring the book.
+let us bring.
+let him bring the book.
+let him bring.
+let her/them bring the book.
+let her/them bring.
+let you  prepare the food.
+let you  prepare.
+let you prepare the food.
+let you prepare.
+you  teach him.
+teach him.
+you feed her.
+feed her.
+make him sleep.
+you  teach them.
+teach them.
+the woman had the thief caught by the police.
+woman.
+thief.
+police.
+hold.
+the man made the child drink milk.
+child.
+milk.
+drink.
+they cut something for their benefit.
+something.
+cut.
+(you(sg)) collect the beans for your benefit!.
+beans.
+collect.
+i am/will be told a story.
+we are/will be told a story.
+you (sg) are/will be told a story.
+you (pl) are/will be told a story.
+he is/will be told a story.
+she is/will be told a story.
+they are/will be told a story.
+i was/had been told a story.
+we were/had been told a story.
+you (sg) were/had been told a story.
+you (pl) were/had been told a story.
+he was/had been told a story.
+she was/had been told a story.
+they were/had been told a story.
+it became tall.
+tall.
+become.
+(it) became fat.
+fat.
+the girl is becoming tall.
+the girl.
+becoming tall.
+become.
+the man is becoming fat.
+man.
+be fat.
+he is becoming angry.
+be angry.
+come.
+i came i have come.
+samson and his associates came.
+jilalo and his associates came.
+samson came.
+i.
+we.
+you.
+you.
+he.
+she.
+they.
+you male.
+you female.
+mine.
+ours.
+yours (sg).
+yours (pl).
+his.
+hers.
+theirs.
+ours.
+my house.
+our house.
+your  house.
+your  house.
+his house.
+her house.
+their house.
+my houses.
+our houses.
+your (sg) houses.
+your (pl) houses.
+his houses.
+her houses.
+their houses.
+this (m).
+this (f).
+these.
+that (m).
+that (f).
+those.
+myself.
+ourselves.
+yourself (m).
+yourself (f).
+yourselves.
+himself.
+herself.
+themselves.
+i cut myself.
+cut.
+she washed herself.
+body.
+washed.
+we like each other.
+each other.
+we like.
+you like each other.
+you like.
+they like each other.
+they like.
+something.
+someone, somebody.
+everything.
+nothing.
+someone.
+no one.
+one of us.
+one of you.
+one of them (gender neutral).
+one (m) of them (m).
+one (f) of them (f).
+one of us came..
+one of you came..
+one of them (n) came.
+one of them (f) came.
+one of them (m) came.
+all of us.
+all of you.
+all of them.
+none of us went.
+none of us.
+none of you went.
+none of you.
+none of them went.
+none of them.
+who.
+what.
+why.
+when.
+where.
+which.
+how.
+whose.
+how many.
+which one.
+which one.
+which ones.
+which ones.
+which ones from a certain group.
+who came?.
+when did she come.
+when did she.
+where is your book.
+that child whose.
+child.
+who is this man?.
+who is.
+this man.
+whose child is that.
+that.
+who.
+child.
+is he a farmer.
+farmer.
+is the house big?.
+be big.
+the house.
+is he kedir?.
+yes, he is.
+yes.
+isn't it big?.
+big.
+they came, didn't they?.
+he is student,or not?.
+we do not eat raw meat, do we?.
+we.
+raw.
+meat.
+we do not eat.
+do we?.
+you do not eat raw meat, do you?.
+you.
+do you?.
+raw.
+you  will come tomorrow, won't you?.
+you.
+tomorrow.
+will not come.
+do you come?.
+she does not produce rice, does she?.
+she.
+rice.
+not produce.
+does she produce.
+we.
+rice.
+we do not produce.
+do we?.
+we.
+rice.
+we do not produce.
+do we produce?.
+she does not produce rice.
+does she?.
+she.
+rice.
+she does not produce.
+does she produce?.
+what about jelalu.
+what about going to the makrit?.
+market.
+go.
+i do not produce rice.
+i do not produce rice.
+we do not produce rice.
+you  do not produce rice.
+you  do not produce rice.
+he does not produce rice.
+she does not produce rice.
+they do not produce rice.
+go.
+eat.
+change.
+spill.
+sell.
+breast-feed.
+shout.
+cut.
+do not go.
+do not eat.
+do not change.
+do not spill.
+do not sell.
+do not breast-feed.
+do not shout.
+do not cut.
+bring (it).
+run.
+drink (it).
+write (it).
+do not bring (it).
+do not run.
+do not drink (it).
+do not write (it).
+sleep.
+don not sleep.
+go.
+eat.
+change.
+spill.
+sell.
+breast-feed.
+shout.
+cut.
+do not go.
+do not eat.
+do not change.
+do not spill.
+do not sell.
+do not breast-feed.
+do not shout.
+do not cut.
+bring (it).
+run.
+drink (it).
+write (it).
+do not bring (it).
+do not run.
+do not drink (it).
+do not write (it).
+let him not go.
+let her/them not come.
+red.
+black.
+white.
+green.
+yellow.
+brown.
+spotted.
+blue.
+gray.
+tall, long.
+short.
+fat.
+thin.
+big.
+many, full.
+small.
+wide.
+narrow.
+far.
+beside.
+near.
+side.
+good, kind.
+hard.
+weak, soft.
+dry.
+heavy.
+poor.
+hot.
+cold.
+high.
+low, not full.
+sharp.
+beautiful.
+handsome derivation in adjectives.
+honest.
+bad.
+wise.
+ugly.
+wet, raw.
+light.
+strong.
+small one.
+handsome one.
+white one.
+tall, long one.
+raw, wet one.
+brown one.
+poor one.
+fat one.
+small ones.
+handsome ones.
+white ones.
+tall, long ones.
+raw, wet.
+brown ones.
+poor ones.
+fat ones.
+long, tall one.
+long, tall ones.
+long, tall ones.
+white one.
+white ones.
+very strong.
+very good.
+very ugly.
+very.
+cold.
+extremely very strong.
+excellent.
+very very good.
+good.
+very very weak.
+extremely.
+very.
+weak.
+morning.
+late morning.
+midday.
+afternoon, late afternoon.
+evening, night.
+midnight.
+dawn, cockcrow.
+today.
+tomorrow.
+after tomorrow.
+yesterday.
+before yesterday.
+third day after the day of conversation.
+after.
+after tomorrow.
+third day before the day of conversation.
+before.
+monday.
+tuesday.
+wednesday.
+thursday.
+friday.
+saturday.
+sunday.
+september.
+october.
+november.
+december.
+january.
+february.
+march.
+april.
+may.
+june.
+july.
+august.
+p'agumen.
+always.
+sometimes.
+never.
+rarely.
+once.
+once a week.
+once a month.
+once a year.
+occasionally.
+twice.
+every morning.
+every afternoon.
+every evening.
+summer.
+spring.
+winter.
+autum.
+here.
+there.
+near.
+far.
+outside.
+down there.
+up there.
+there.
+further there.
+down.
+further there down.
+further there up to be asked.
+upwards.
+downwards.
+sideways.
+towards inside.
+away from.
+right wards.
+right.
+leftwards.
+left.
+backwards.
+back.
+towards.
+north.
+east.
+south.
+west.
+in.
+on.
+behind.
+two.
+cows.
+ten trees.
+three.
+students.
+the houses.
+houses.
+this man.
+these men.
+these people.
+this man.
+these women.
+this women.
+these woman.
+this woman.
+these fields.
+these fields.
+this tree.
+these trees.
+that.
+man.
+those.
+men.
+that.
+women.
+that.
+field.
+those.
+fields.
+that.
+tree.
+those.
+trees.
+this man.
+these men.
+that woman.
+those women.
+my house.
+our house.
+your house.
+you house.
+his house.
+her house.
+their house.
+black cow.
+strong person.
+we laughed.
+we laughed.
+laughed.
+they came here.
+they.
+here.
+come.
+you  went there.
+you.
+there.
+go.
+he bought the book.
+he.
+book.
+buy.
+i saw the woman.
+i.
+woman.
+see.
+if they work hard, they will achieve their objective.
+they.
+be hard.
+work.
+aim.
+achieve.
+if i go to market, i will buy meat.
+i.
+market.
+go if.
+meat.
+buy.
+if i went to market, i would buy meat.
+i.
+market.
+go.
+meat.
+buy.
+if they had money, they would build the house.
+they.
+money.
+have.
+house.
+build.
+if the had had money, they would have built the house.
+they.
+money.
+have.
+house.
+build.
+even if she comes, she will not talk .
+she.
+come.
+even if.
+not talk.
+when we went there, we saw the lion.
+there.
+go.
+when.
+lion.
+see.
+when it rained, we were at home.
+rain.
+drop.
+when.
+house.
+be.
+when she comes, give her the fruits.
+she.
+come.
+when.
+fruits.
+give.
+he was fined because he hit his wife.
+he.
+hit.
+house.
+woman.
+because.
+fine.
+the old man could not come because he was sick.
+the old.
+man.
+come.
+could not.
+because.
+he sick.
+she saved money in order to buy a cloth.
+she.
+money.
+save.
+cloth.
+buy.
+we have to work hard in order to develop our country.
+we.
+country.
+grow.
+be hard.
+work.
+want.
+they know that we are in welkite.
+we.
+welkite.
+inside.
+they know.
+you (sg) heard that the man came.
+you.
+man.
+come that.
+you heard.
+good morning.
+good.
+good afternoon.
+good afternoon.
+good evening.
+good evening.
+peace on you.
+goodbye.
+peace, health.
+how are you.
+fine.
+bull.
+bulls.
+cat.
+cats.
+vulture.
+vultures.
+ox.
+oxen.
+camel.
+camels.
+uncle (maternal).
+uncles.
+he-goat.
+she-goat.
+male dog.
+bitch.
+husband.	
+wife.
+ram.
+ewe.
+alive.
+ankle.
+ant.
+anus.
+armpit.
+ash.
+attractive.
+aunt (mother's sister).
+aunt(father's sister).
+axe.
+baboon.
+back.
+bad.
+baking pan.
+banana.
+bark (of tree ).
+barley.
+bat.
+beans.
+beard.
+beautiful.
+bed.
+bee.
+belief.
+belly.
+big.
+bird.
+bitter.
+black.
+blade.
+blanket.
+blood.
+blue.
+bone.
+box.
+boy.
+branch (big).
+branch (with leaves).
+brave.
+bread (home-made).
+bread.
+breakfast.
+breast.
+bright.
+sister.
+brother-in-law.
+brown.
+bucket.
+bull.
+butter.
+butterfly.
+cabbage.
+calf (of leg).
+charcoal.
+cheap.
+cheek (outer part).
+cheese.
+chest.
+chicken.
+child.
+chin.
+cloth.
+coffee.
+cotton.
+door.
+ear.
+entrance.
+eye.
+eyebrow.
+eyelash.
+fart.
+faeces.
+finger.
+fire.
+fire wood.
+foot.
+forehead.
+goat.
+good/nice.
+gourd/calabash.
+hair (general).
+hammer.
+hand + upper & lower arm.
+hatred.
+head.
+heart.
+heavy.
+heel.
+hen.
+house.
+hump.
+husband.
+hut.
+kettle.
+kidney.
+kind.
+kitchen.
+knee.
+leg.
+lip.
+liver.
+lump.
+lunch.
+lung.
+mat.
+mattress.
+meat.
+milk.
+monkey.
+moon.
+mortar.
+mouth.
+mud.
+mule.
+muscles (upper arm).
+nail (of finger ).
+nape.
+narrow.
+navel.
+near.
+neck.
+needle.
+neighbor.
+new.
+nose.
+old woman.
+onion.
+penis.
+pepper (green).
+pillow.
+plate.
+pot.
+potato.
+pray.
+pumpkin.
+rope.
+sad.
+saliva.
+salt.
+sand.
+saw (tool).
+sheep.
+sheets (bed).
+shield.
+shoe.
+short.
+sickle.
+skin (general).
+small finger.
+smoke.
+snake.
+soap.
+spade/shovel.
+spear.
+stew (wott).
+stomach.
+sugar.
+sweet potato.
+sword termite.
+testicle.
+thin.
+thumb.
+tongue.
+tooth.
+upper arm.
+urine.
+village.
+vulture.
+waist.
+walking stick.
+war.
+water.
+wheat.
+whip.
+window (air outlet).
+yoghurt.
+yoke.
+young.
+one.
+two.
+three.
+four.
+five.
+six.
+seven.
+eight.
+nine.
+ten.
+hundred.
+thousand.
+million.
+to make building.
+making bulding by some are.
+building.
+carry.
+load.
+we will cerry.
+lets carry.
+we have carried.
+without carrying (they.
+the has carricd.
+if they (she ) have carried.
+they (she) doesn't carried).
+he has carried.
+aman who carries.
+carrier.
+enough.
+will be.
+when it will be.
+permisiom.
+order.
+washe.
+debit.
+credit.
+giving credit.
+enhibiting credit.
+has credit.
+we have drank.
+as we drank.
+afer drink.
+father.
+without giving.
+giving each other.
+lits give eachother.
+we gave each other.
+they gave each other.
+we gave.
+they gave.
+they don't gave.
+she gave to him.
+she gave to her.
+she does'nt givchim.
+he gave.
+he does'nt gave.
+he gave to her.
+give.
+washing each other.
+she washed.
+making someone wasted.
+washe.
+we washed.
+he washed.
+withoutmaking to drink.
+making to drink.
+she doesn't make to drink.
+she doesn't make to drink.
+he made to drink.
+after making to drink.
+he doesn't make to drink.
+as he made to drink.
+following.
+blanket.
+empty house.
+sirname for women.
+inside.
+inside of women.
+acfuince.
+making acfuint.
+know.
+they(she) knows me.
+he knews.
+he knew me.
+acfuinting each other.
+knowlegeable.
+he is knowledgeable.
+he is not knowledgeble.
+hope.
+grand mother sir name.
+behind.
+after.
+being.
+after this time.
+calling some one's name.
+it doesn't fold.
+curled.
+curl.
+she curled.
+mixing.
+without curling.
+we curled.
+as we curled.
+we don't curledit.
+being hited.
+he has hitted.
+he doesn't hitted.
+she has hitted.
+she doesn't hitted.
+when we growing.
+growing up.
+not growing.
+grown.
+madam.
+growed.
+we growed.
+foster.
+not fosterat.
+devalue.
+peni.
+to bite some thing promise.
+he make promise.
+remer.
+joss stik.
+wealthe.
+wealthies of us.
+with out wealth.
+tergide his blood vessele.
+blood vessele.
+blood vesselies.
+decision.
+decided.
+puff(astivation).
+astivate again and.
+hair style.
+to try repeatidly.
+walk.
+you.
+now.
+for now.
+abdomen.
+veiled covered.
+protective.
+tape recorder.
+you(women).
+crossing.
+to passway.
+storm.
+maize fly.
+streching.
+to take.
+recipter/accepter.
+recipters.
+fifty cents.
+dis appeared or quietus.
+disappear.
+fool silly.
+disapeared or quietus.
+more than.
+greater than.
+mostly.
+the major.
+surposs.
+multiplication.
+assodiatic.
+to faze.
+fazey.
+adding.
+shouting loudly.
+be father in law.
+useless result.
+which is not lasting.
+danger or accident.
+one who doesn't.
+middile.
+grey.
+temperate.
+large.
+being elder.
+being very busy.
+shepherd.
+imptetigo.
+painting.
+lung cancer.
+blewed.
+lough /n/ cadsits.
+blewing.
+better.
+cattle.
+horn.
+egg.
+main.
+uprooting.
+soil.
+usless for food.
+anger.
+angry.
+end over.
+decaying.
+decaying.
+decayed.
+buck.
+comfort.
+batter.
+secret.
+source.
+stream.
+orange.
+cultural blanket mad from cotton.
+to make loam.
+fight or sthife.
+married life.
+be married.
+lang uisod.
+useless.
+to become red.
+red maize red corn.
+size amount.
+measure.
+straight across(adj.
+to across cross.
+previous man ancient man.
+previous time.
+morning market.
+year.
+glass.
+bald.
+bald.
+accurate exact.
+to re arrange.
+sea.
+crow.
+country.
+compatriot.
+culture of a country.
+nationality.
+intrigue.
+bank.
+aardvark.
+payed.
+payement,fee.
+papaya or pawpow.
+bean.
+vinger.
+oldman.
+arbitration.
+correct.
+site.
+place.
+solid not hollow(entire).
+stop loak.
+criminal.
+waste or quiotus.
+quietustion.
+offender.
+sharing.
+to divide.
+except.
+being tottooedlv being.
+office made adiscout.
+creek.
+bad smell.
+cultural rule.
+stirred up,agitaed /liquid/.
+with greater amount of cheese.
+bad smell.
+with her husband a woman who is qurreled.
+one who has a face similar to a woman.
+house.
+scrambling for.
+june.
+heading.
+knap, top.
+sky.
+mandatory.
+tiger.
+nasacavity.
+clear.
+adjective.
+patient , person.
+patience.
+patieney.
+plane.
+three.
+religious pious.
+thirst.
+good breading.
+hurry.
+thirty.
+basket.
+aduise.
+remorse.
+regretly.
+image.
+name.
+naming.
+defame.
+kiss each other.
+poison.
+poisonous.
+to be hanged.
+on.
+hang, cross.
+addiction.
+sweet potato.
+shop.
+trouser.
+to fush in some thing.
+heifer.
+wool.
+cup.
+drizzle, small raining.
+the gap between  two teeth.
+cleannss.
+ankle.
+gauze.
+carving false banana that is used to made up of bamboo.
+spun twisted together.
+found amental sign.
+become of shrunken and soft.
+cigratte.
+door.
+cow.
+wages.
+big plate.
+leaf of upmpkin.
+carton.
+bayonet.
+plate.
+box.
+dagger.
+rule regulation.
+regulate.
+roof.
+fast.
+cloth.
+book.
+library.
+books.
+vegetable.
+planting.
+to make plant.
+christian.
+wake up.
+source.
+tomeasure.
+tomeasure.
+rumex abyssinia kind of fruit with bitter taste.
+please go away.
+saddle.
+atype of plant which have agood smell.
+dried false banana leaf/v/.
+rusting.
+roasted cabbage.
+throat.
+holstered.
+sour.
+check.
+a person who has alarge check.
+to roll.
+jump.
+jumping.
+being in death throes.
+to melting.
+to melt.
+hiding.
+holstered.
+throat.
+roasted cabbage.
+rustle.
+rusting.
+dried false banana leaf/v/.
+a type of plant which have agood smell.
+hoof.
+complaing.
+complain.
+condom.
+vehicle.
+flea.
+being thirsty.
+which cam not be done again.
+saddle.
+saddling.
+pot.
+please go away.
+rumex abyssinia kind of fruit with bitter taste.
+you.
+sack.
+to you.
+measured out.
+weight.
+adult.
+being adult hood.
+peace.
+motivation.
+being difficult.
+a cow which is pregnant.
+one is easly bored.
+becoming bored.
+to make ground.
+open handed.
+mischievous.
+cannibal.
+skeletal.
+very thin.
+thick plaing reed.
+to full.
+full.
+huge man.
+work askirt.
+strange surprising.
+seewing.
+grain.
+ekub.
+huge female.
+baton.
+to throw some thing away opposite side.
+smoke.
+smoking.
+to run quickly before jumping.
+packed.
+distrbance laughing highly.
+lust full.
+dog.
+stubborn obstinate.
+stood on.
+being happy.
+kid of goats.
+kid of goat.
+wot.
+share.
+care of.
+mutual compassion.
+rope.
+force full.
+strength.
+force.
+cermony.
+procedure.
+explanation.
+explain.
+beet of meat.
+unmer ate.
+counting.
+count.
+snake.
+district.
+papers.
+paper.
+a type of bird.
+greater kudy.
+airing.
+amazement.
+history.
+peace.
+fan.
+made to drink unwillingly.
+road.
+being hitted.
+hitting.
+hitted.
+hit.
+car damom.
+delegation.
+adicater.
+distrbance laughing highly.
+time.
+spliting.
+lust full.
+atype of wood.
+proosl evidence.
+women with out hasband.
+unsystematic shapeless.
+a type of wood root.
+tired ness.
+young of donkey.
+tired.
+kings.
+king.
+sugar.
+crime.
+a hollow used to keep kocho.
+do you have.
+doesn't have.
+says.
+absent.
+he is present.
+yes.
+january.
+hardly sick.
+bad.
+peers relation with two female.
+really.
+thing that.
+lip.
+return back.
+statement.
+said.
+gourd used to drink common coffee and milk.
+hive.
+ring.
+dress.
+yoken.
+thin.
+disease.
+cultural carpet used to bake kocho.
+flour.
+taste.
+to mare cheal drink.
+chewing.
+drinking.
+tablet of ortape worm.
+which cannot grow fast.
+plugged, leak, stopper.
+cape.
+displeasure discontent.
+one who helps,aids.
+shoulder.
+strange.
+enter taining.
+strange.
+steward host.
+to have banal.
+with turn.
+benal.
+rotate.
+to roll.
+a person who has a large check.
+check.
+state of being caponize.
+caponize.
+sour.
+control.
+a cow which is pregnant.
+one is easily bored.
+becoming bored.
+to make ground.
+open handed.
+mischievous.
+cannibal.
+always.
+hot.
+culitvat.
+twenty.
+skin disease.
+albino.
+two.
+seven.
+behanged.
+hanged each other.
+uncle.
+hang.
+aunt.
+the following day.
+for the second time.
+weary.
+mantle.
+wish strongly.
+semiliquid.
+learning.
+school.
+education.
+teacher.
+teach.
+adaptation.
+big.
+roman.
+superiority.
+selfish stingy.
+died body.
+weak.
+cooking.
+pure water.
+ripped.
+cooked.
+radio.
+amuzed.
+x- ray.
+love.
+a type of weed whichis eaten.
+shocked,alarmed.
+thing.
+unwillingness.
+a small food table.
+nerve diseases.
+asking for helping.
+help.
+mill.
+grounding.
+apeice of some thing.
+guarantee.
+give guarantor.
+guarantor.
+spirit soul.
+buffalo.
+aiphabet order.
+to make mated inter coarsed.
+in hesitance.
+lermeat.
+to make drilled.
+one part of blade.
+over croweded.
+fire ash.
+cultural food ing ckemony.
+illitrate.
+past time.
+sparking.
+hesitant.
+slave.
+bull.
+road.
+autum.
+threatening.
+suddnly.
+solid gland.
+a type of grass.
+to make spread carpet.
+colabus moneys colabus abyssinia.
+milky.
+false banana.
+mam who has lost of milk.
+lose of milk.
+fear.
+white.
+to terrize.
+coward timid fear ful.
+walking without aim.
+watch man guard.
+author.
+campostion treatise.
+difficulty.
+moaning.
+calves.
+answer.
+to return back.
+to show in provement.
+defended.
+choaping bourd.
+cardia.
+weaving.
+to the upper part of a plant.
+distrubance.
+disturbances.
+formality(prodcedure.
+informally.
+formally.
+weaving.
+weaving.
+necklace.
+a type of plant.
+chym and chyle.
+small dagger.
+sisal plant.
+son.
+child hood.
+daughter.
+shaking.
+theism.
+he always drinks coffee.
+she always drinks coffee.
+they always drink coffee.
+i am going home.
+we are going home.
+you (sg) are going home.
+you (pl) are going home.
+he is going home.
+she is going home.
+they are going home.
+i was going home.
+we were going home
