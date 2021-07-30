@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Habib Kedir
-- 👀 I’m interested in Language Technology with Deep Learning
+- 👀 I’m interested in Language Technology and Deep Learning
 - 🌱 I’m currently learning my software engineering. 
 - 💞️ I’m looking to collaborate on machine translation projects
 - 📫 Find me on Email lehabibkedir@gmail.com,+251923480409
